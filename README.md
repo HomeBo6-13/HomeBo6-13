@@ -1,4 +1,4 @@
-<p data-importer="text" align="left"><br><br>Hi! My name is Luis Contreras Gomez* and I'm from Mexico.<br><br>I'm a Software Development and Management Engineer with a passion for building solutions, solving challenging problems, and continuously improving my skills.<br><br>I enjoy working in collaborative environments where everyone contributes their best. I believe that great software is built by teams that support each other, share knowledge, and are always looking for better ways to solve problems.</p>
+<p data-importer="text" align="left">Hello! My name is Luis Contreras Gomez* and I'm from Mexico.<br><br>I'm a Software Development and Management Engineer with a passion for building solutions, solving challenging problems, and continuously improving my skills.<br><br>I enjoy working in collaborative environments where everyone contributes their best. I believe that great software is built by teams that support each other, share knowledge, and are always looking for better ways to solve problems.</p>
 
 ###
 
