@@ -2,7 +2,7 @@ name: Generate arcade animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 * * * *"
 
   workflow_dispatch:
 
@@ -25,6 +25,7 @@ jobs:
         with:
           github_user_name: HomeBo6-13
           games: bomberman
+          github_token: ${{ secrets.PACMAN_TOKEN }}
 
       - name: Push graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
